@@ -6,4 +6,6 @@ In this project. I analyzed different countries sales data to find key business 
 
 -> I build interractive Dashboard.
 [Here Dashboard](https://github.com/AHSAN48692/sales-project/blob/main/Sales%20Dashboard.pbit)
+
 [Screenshot of DashBoard]()
+<img width="889" height="499" alt="Dashboard Screenshot" src="https://github.com/user-attachments/assets/758ce9ae-f080-4aad-925c-8039ad671eeb" />
