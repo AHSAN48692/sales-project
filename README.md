@@ -1,4 +1,4 @@
-Title: Sales data.
+Title: Sales Project.
 In this project. I analyze different countries sales data to find key business insights. I used SQL to extract and clean the data and Power BI for visualization. The goal was to track profit, sales and product performance across different countries.
 
 Tech Stack:
