@@ -5,4 +5,5 @@ In this project. I analyzed different countries sales data to find key business 
 [Here SQL Queries](https://github.com/AHSAN48692/sales-project/blob/main/Sales.sql)
 
 -> I build interractive Dashboard.
-[Here Dashboard]()
+[Here Dashboard](https://github.com/AHSAN48692/sales-project/blob/main/Sales%20Dashboard.pbit)
+[Screenshot of DashBoard]()
